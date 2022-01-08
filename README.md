@@ -1,3 +1,10 @@
+# Life Care - Online live meetings with agora (https://life-care-agora.web.app)
+online consultancy for medical personnels
+With this application medical personnel can book and share the meeting/appointment link with other medical personnel or patients for live interaction.
+
+# see demo here [https://life-care-agora.web.app](https://life-care-agora.web.app)
+
+
 # AgoraConnect
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0.
